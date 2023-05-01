@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #515050;
+}
+
+header {
+  background-color: #0eaeed;
+}
+
+.nav-link, .navbar-brand, .derechos, .social {
+  color: #ffffff;
+  font-family: "Poiret One", cursive;
+  font-weight: 400;
+  font-size: x-large;
+}
+.nav-link:hover, .navbar-brand:hover, .derechos:hover, .social:hover {
+  color: #6370b5;
+}
+
+h1, h2 {
+  font-family: "Poiret One", cursive;
+}
+
+p {
+  font-family: "Quicksand", sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 3%;
+  padding: 1%;
+  background-color: #0eaeed;
+}
+
+.derechos {
+  font-size: small;
+}
+
+.logo {
+  font-family: "Poiret One", cursive;
+}
+
+.carrito {
+  color: #b4af9b;
+}
+.carrito:hover {
+  color: #b4af9b;
+}
+
+.paquetes {
+  font-size: xx-large;
+  color: #ffffff;
+  text-align: center;
+  padding: 5%;
+}
+
+.card {
+  width: 100%;
+  padding: 5px;
+  margin: 5px;
+}
+.card:hover {
+  box-shadow: 7px 3px 3px #b4af9b;
+}
+
+.card-title {
+  text-align: center;
+  color: #b4af9b;
+}
+
+.boton {
+  align-items: center;
+  background-color: #6370b5;
+  box-shadow: 1px 1px 2px #0eaeed;
+  color: #ffffff;
+}
+.boton:hover {
+  background-color: #0eaeed;
+  color: #ffffff;
+  box-shadow: 1px 1px 2px #b4af9b;
+}
+
+.textoCarrusel {
+  font-family: "Quicksand", sans-serif;
+  font-weight: bolder;
+  font-size: 250%;
+  margin: 10%;
+}
+
+/*# sourceMappingURL=style.css.map */
